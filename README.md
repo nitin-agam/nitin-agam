@@ -1,6 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/nitin-agam/quiz_ios/main/header.png?token=GHSAT0AAAAAABQHOT45CSKUD6UC3SNNFJDGYPD3LGA)](https://www.linkedin.com/in/nitinagam/)
-<h1 align="center">Hi 👋, I'm Nitin Aggarwal </h1>
-<h3 align="center">A passionate iOS developer</h3>
+[![MasterHead](https://raw.githubusercontent.com/nitin-agam/quiz_ios/main/github_header.png?token=GHSAT0AAAAAABQHOT44ZLW2UIDV3COJWBFEYPD4AVQ)
+](https://www.linkedin.com/in/nitinagam/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-agam&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-agam" /> </p>
