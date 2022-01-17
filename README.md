@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/nitin-agam/quiz_ios/main/github_header.png?token=GHSAT0AAAAAABQHOT44ZLW2UIDV3COJWBFEYPD4AVQ)
+[![MasterHead](https://raw.githubusercontent.com/nitin-agam/nitin-agam/main/github_header.png)
 ](https://www.linkedin.com/in/nitinagam/)
 
 
