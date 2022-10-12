@@ -1,20 +1,24 @@
-[![MasterHead](https://github.com/nitin-agam/quiz_ios/blob/main/github_header.png?raw=true)
-](https://www.linkedin.com/in/nitinagam/)
+<h1>I'm Nitin Aggarwal, an iOS Engineer </h1>
 
+<br>
+
+🌱 I’m currently learning **SwiftUI, Python, C++**
+
+👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitinagam/](https://www.linkedin.com/in/nitinagam/)
+
+📝 I regularly write articles on [https://nitinagam17.medium.com/](https://nitinagam17.medium.com/)
+
+💬 Ask me about **iOS, Swift, SwiftUI**
+
+📫 How to reach me **nitinagam17@gmail.com**
+
+⚡ Fun fact **I'm cool at workplace**
+
+📝 Writing at **Swift Anytime**
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-agam&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-agam" /> </p>
-
-- 🌱 I’m currently learning **SwiftUI,Python**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitinagam/](https://www.linkedin.com/in/nitinagam/)
-
-- 📝 I regularly write articles on [https://nitinagam17.medium.com/](https://nitinagam17.medium.com/)
-
-- 💬 Ask me about **iOS, Swift, SwiftUI**
-
-- 📫 How to reach me **nitinagam17@gmail.com**
-
-- ⚡ Fun fact **I'm cool at workplace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
