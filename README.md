@@ -2,7 +2,7 @@
 
 <br>
 
-🌱 I’m currently learning **SwiftUI, Python, C++**
+🌱 I’m currently learning **SwiftUI, Python, C++, Web Development**
 
 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nitinagam/](https://www.linkedin.com/in/nitinagam/)
 
@@ -11,7 +11,5 @@
 💬 Ask me about **iOS, Swift, SwiftUI**
 
 📫 How to reach me **nitinagam17@gmail.com**
-
-⚡ Fun fact **I'm cool at workplace**
 
 📝 Writing at **Swift Anytime**
