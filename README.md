@@ -1,7 +1,7 @@
 <h1>I'm Nitin, an iOS Engineer </h1>
 
 <p float="center">
-  <img src="https://github.com/nitin-agam/nitin-agam/assets/12906999/f1cf384b-1cfd-4369-9e62-090cc7e31a21" width="100%" />
+  <img src="https://github.com/nitin-agam/nitin-agam/assets/12906999/fc6895a3-4f1b-4e87-9d4f-96bff12fc20e" width="100%" />
 </p>
 
 🎯 Dedicate yourself to your goals and stay focused on the things and activities to achieve them.
