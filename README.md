@@ -10,6 +10,12 @@
 
 <br>
 
+### Publication as an author
+
+[Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/)
+
+Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview.
+
 ### What's going on?
 
 - A series to explore UIKit framework in depth. The [#ExploringUIKit](https://github.com/nitin-agam/ExploringUIKit) reposortory just started now. 
