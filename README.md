@@ -10,11 +10,15 @@
 
 <br>
 
-### Publication as an author
+### eBook
 
-[Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/)
+[iOS Interview Handbook](https://topmate.io/nitinagam17/827990)
 
-Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview.
+🔍 270+ top interview questions covering a wide range of topics
+
+🛠️ Expert guidance and a complete roadmap for interview preparation
+
+💡 Exclusive access to personalized one-on-one session to ask your queries
 
 ### What's going on?
 
@@ -38,5 +42,3 @@ Are you eager to secure your dream job as an iOS developer? Do you want to stand
 - Email me at nitinagam17@gmail.com to have a professional conversation.
 
 <br>
-
-[Support my work](https://github.com/sponsors/nitin-agam)
